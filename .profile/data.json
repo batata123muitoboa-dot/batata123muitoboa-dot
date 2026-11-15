@@ -1,0 +1,318 @@
+{
+ "key": "d07d3ad1",
+ "stars": 1,
+ "contributions": 175,
+ "repos": 10,
+ "followers": 2,
+ "languages": [
+  [
+   "C",
+   219290
+  ],
+  [
+   "Kotlin",
+   195814
+  ],
+  [
+   "Python",
+   89809
+  ],
+  [
+   "Assembly",
+   6355
+  ],
+  [
+   "Linker Script",
+   529
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 2,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 3,
+    "day": 15,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 3
+ },
+ "pins": [
+  {
+   "name": "uptime-roast",
+   "url": "https://github.com/batata123muitoboa-dot/uptime-roast",
+   "text": "A Linux command i made myself in less than 15 minutes (my first one)",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "RIMG",
+   "url": "https://github.com/batata123muitoboa-dot/RIMG",
+   "text": "A new image format made by me, RainnXD.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Solua",
+   "url": "https://github.com/batata123muitoboa-dot/Solua",
+   "text": "A new programming language, made by me, RainnXD.",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": [
+    "language",
+    "programming",
+    "programming-language",
+    "programming-languages"
+   ]
+  },
+  {
+   "name": "RainDrop",
+   "url": "https://github.com/batata123muitoboa-dot/RainDrop",
+   "text": "A new form of airdropping links and images (a bit experimental)",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "NyteOS",
+   "url": "https://github.com/batata123muitoboa-dot/NyteOS",
+   "text": "An Operating System made from scratch using Assembly and C.",
+   "fork": false,
+   "stars": 1,
+   "language": "C",
+   "topics": [
+    "assembly",
+    "assembly-language",
+    "assembly-x86",
+    "bootloader",
+    "c",
+    "from-scratch",
+    "fromscratch",
+    "kernel",
+    "os",
+    "osdev"
+   ]
+  },
+  {
+   "name": "Rainnsland",
+   "url": "https://github.com/batata123muitoboa-dot/Rainnsland",
+   "text": "A Dynamic Island like app for Android.",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "apk",
+    "app",
+    "dynamic-island",
+    "island",
+    "kotlin",
+    "kotlin-android"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "NyteOS",
+   "url": "https://github.com/batata123muitoboa-dot/NyteOS",
+   "text": "An Operating System made from scratch using Assembly and C.",
+   "fork": false,
+   "stars": 1,
+   "language": "C",
+   "topics": [
+    "assembly",
+    "assembly-language",
+    "assembly-x86",
+    "bootloader",
+    "c",
+    "from-scratch",
+    "fromscratch",
+    "kernel",
+    "os",
+    "osdev"
+   ]
+  },
+  {
+   "name": "batata123muitoboa-dot",
+   "url": "https://github.com/batata123muitoboa-dot/batata123muitoboa-dot",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Rainnsland",
+   "url": "https://github.com/batata123muitoboa-dot/Rainnsland",
+   "text": "A Dynamic Island like app for Android.",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "apk",
+    "app",
+    "dynamic-island",
+    "island",
+    "kotlin",
+    "kotlin-android"
+   ]
+  },
+  {
+   "name": "RainDrop",
+   "url": "https://github.com/batata123muitoboa-dot/RainDrop",
+   "text": "A new form of airdropping links and images (a bit experimental)",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Solua",
+   "url": "https://github.com/batata123muitoboa-dot/Solua",
+   "text": "A new programming language, made by me, RainnXD.",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": [
+    "language",
+    "programming",
+    "programming-language",
+    "programming-languages"
+   ]
+  },
+  {
+   "name": "RIMG",
+   "url": "https://github.com/batata123muitoboa-dot/RIMG",
+   "text": "A new image format made by me, RainnXD.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "the-ting-goes",
+   "url": "https://github.com/batata123muitoboa-dot/the-ting-goes",
+   "text": "A simple joke command made by me in less than 15 minutes",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "uptime-roast",
+   "url": "https://github.com/batata123muitoboa-dot/uptime-roast",
+   "text": "A Linux command i made myself in less than 15 minutes (my first one)",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "windows-11-taskbar-styling-guide",
+   "url": "https://github.com/batata123muitoboa-dot/windows-11-taskbar-styling-guide",
+   "text": "A collection of commonly requested taskbar styling customizations for Windows 11",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "windhawk-mods",
+   "url": "https://github.com/batata123muitoboa-dot/windhawk-mods",
+   "text": "A better Taskbar Styler. (NOT FINISHED)",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  }
+ ]
+}
