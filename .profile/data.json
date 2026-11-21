@@ -1,8 +1,8 @@
 {
- "key": "e80d5f82",
+ "key": "b8d0b345",
  "stars": 1,
- "contributions": 180,
- "repos": 10,
+ "contributions": 184,
+ "repos": 11,
  "followers": 2,
  "languages": [
   [
@@ -15,7 +15,7 @@
   ],
   [
    "Python",
-   91410
+   107903
   ],
   [
    "Assembly",
@@ -128,15 +128,19 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 4,
     "day": 20,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 21,
+    "today": true
+   }
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 3
  },
  "pins": [
@@ -239,6 +243,15 @@
     "os",
     "osdev"
    ]
+  },
+  {
+   "name": "GhidraCleaner",
+   "url": "https://github.com/batata123muitoboa-dot/GhidraCleaner",
+   "text": "A simple tool that cleans Ghidra's decompiled code so it can be compiled and run successfully.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
   },
   {
    "name": "batata123muitoboa-dot",
