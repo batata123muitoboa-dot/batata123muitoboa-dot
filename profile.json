@@ -1,8 +1,8 @@
 {
   "version": 1,
   "login": "batata123muitoboa-dot",
-  "seed": "#5793A2",
-  "seedFromAvatar": true,
+  "seed": "#FF8A3D",
+  "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
@@ -99,7 +99,8 @@
         "icon": "desktop_windows"
       },
       "RIMG": {
-        "icon": "image"
+        "icon": "image",
+        "shape": "cookie12"
       },
       "RainDrop": {
         "icon": "share"
@@ -114,6 +115,9 @@
       "ms10-rules": {
         "icon": "mouse",
         "shape": "soft"
+      },
+      "Solua": {
+        "shape": "flower"
       }
     },
     "empty": "No description yet.",
