@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "batata123muitoboa-dot",
-  "seed": "#5893A2",
+  "seed": "#5793A2",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -84,12 +84,12 @@
   "projects": {
     "source": "manual",
     "repos": [
-      "RainDrop",
       "NyteOS",
-      "Rainnsland",
-      "Solua",
+      "GhidraCleaner",
+      "RainDrop",
       "RIMG",
-      "uptime-roast"
+      "Solua",
+      "ms10-rules"
     ],
     "overrides": {
       "Rainnsland": {
@@ -106,6 +106,14 @@
       },
       "uptime-roast": {
         "icon": "nest_clock_farsight_analog"
+      },
+      "GhidraCleaner": {
+        "shape": "gem",
+        "icon": "cleaning_services"
+      },
+      "ms10-rules": {
+        "icon": "mouse",
+        "shape": "soft"
       }
     },
     "empty": "No description yet.",
