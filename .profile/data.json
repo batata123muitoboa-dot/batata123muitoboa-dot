@@ -1,8 +1,8 @@
 {
- "key": "b8d0b345",
+ "key": "efb2bf4c",
  "stars": 1,
- "contributions": 184,
- "repos": 11,
+ "contributions": 190,
+ "repos": 12,
  "followers": 2,
  "languages": [
   [
@@ -10,12 +10,12 @@
    305019
   ],
   [
-   "Kotlin",
-   195814
+   "Python",
+   214545
   ],
   [
-   "Python",
-   107903
+   "Kotlin",
+   195814
   ],
   [
    "Assembly",
@@ -133,14 +133,14 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 6,
     "day": 21,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 3
  },
  "pins": [
@@ -243,6 +243,15 @@
     "os",
     "osdev"
    ]
+  },
+  {
+   "name": "ms10-rules",
+   "url": "https://github.com/batata123muitoboa-dot/ms10-rules",
+   "text": "A simple software to remap your MS10 mouse (requires YICHIP 2.4G Receiver)",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
   },
   {
    "name": "GhidraCleaner",
