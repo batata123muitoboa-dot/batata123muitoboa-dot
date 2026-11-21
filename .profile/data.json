@@ -1,7 +1,7 @@
 {
- "key": "efb2bf4c",
+ "key": "8b6a6595",
  "stars": 1,
- "contributions": 190,
+ "contributions": 193,
  "repos": 12,
  "followers": 2,
  "languages": [
@@ -133,7 +133,7 @@
     "today": false
    },
    {
-    "c": 6,
+    "c": 9,
     "day": 21,
     "today": true
    }
@@ -144,15 +144,6 @@
   "longest": 3
  },
  "pins": [
-  {
-   "name": "uptime-roast",
-   "url": "https://github.com/batata123muitoboa-dot/uptime-roast",
-   "text": "A Linux command i made myself in less than 15 minutes (my first one)",
-   "fork": false,
-   "stars": 0,
-   "language": "Shell",
-   "topics": []
-  },
   {
    "name": "RIMG",
    "url": "https://github.com/batata123muitoboa-dot/RIMG",
@@ -206,21 +197,22 @@
    ]
   },
   {
-   "name": "Rainnsland",
-   "url": "https://github.com/batata123muitoboa-dot/Rainnsland",
-   "text": "A Dynamic Island like app for Android.",
+   "name": "GhidraCleaner",
+   "url": "https://github.com/batata123muitoboa-dot/GhidraCleaner",
+   "text": "A simple tool that cleans Ghidra's decompiled code so it can be compiled and run successfully.",
    "fork": false,
    "stars": 0,
-   "language": "Kotlin",
-   "topics": [
-    "android",
-    "apk",
-    "app",
-    "dynamic-island",
-    "island",
-    "kotlin",
-    "kotlin-android"
-   ]
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "ms10-rules",
+   "url": "https://github.com/batata123muitoboa-dot/ms10-rules",
+   "text": "A simple software to remap your MS10 mouse (requires YICHIP 2.4G Receiver)",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
   }
  ],
  "all": [
